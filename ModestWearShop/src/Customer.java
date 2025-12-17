@@ -1,12 +1,4 @@
 
-
-
-/**
- * Write a description of class customers here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class Customer
 {
     private  String email;
@@ -20,7 +12,7 @@ public class Customer
         this.quantityBought = 0 ;
     }
 
-    //get//
+
     public String getemail()
     {
         return this.email;
@@ -39,7 +31,6 @@ public class Customer
 
     }
 
-    //set//
 
     public void setemail(String email)
     {
@@ -83,3 +74,4 @@ public class Customer
         System.out.println(toString());
     }
 }
+
