@@ -1,10 +1,4 @@
 
-/**
- * Write a description of class abaya here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class Abaya extends ModestWear
 {
     private String sleeve;
@@ -38,4 +32,5 @@ public class Abaya extends ModestWear
 
     }
 }
+
 
