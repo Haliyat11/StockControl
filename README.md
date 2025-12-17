@@ -26,7 +26,7 @@ Abaya Types
 * Linen Abaya
 * Plain Abaya
 
-* Hijab Types
+  Hijab Types
 * Jersey Hijab
 * Chiffon Hijab
 * Khimar
