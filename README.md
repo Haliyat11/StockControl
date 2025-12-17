@@ -19,8 +19,7 @@ Overview
 * Update stock levels for existing products.
 * View a list of customers and their last purchases.
  
-#Product Options
- 
+# Product Options 
 Abaya Types
 * Ruffled Arm Abaya
 * Linen Abaya
@@ -29,10 +28,11 @@ Abaya Types
 * Hijab Types
 * Jersey Hijab
 * Chiffon Hijab
+* Khimar
 
  # Notes
 * Staff password is set to "123" (can be changed in Drivercls).
 * Stock updates automatically after purchases.
 * The project demonstrates object-oriented programming concepts: inheritance and modularity.
 
-Khimar
+
