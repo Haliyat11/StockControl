@@ -1,12 +1,4 @@
 
-
-
-/**
- * Write a description of class hijab here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class Hijab extends ModestWear
 {
 
@@ -21,15 +13,12 @@ public class Hijab extends ModestWear
 
     }
     
-    //get//
     public String getlenght()
     {
         return this.lenght;
 
     }
 
-    
-    //set//
 
     public void setlenght(String lenght)
     {
@@ -46,3 +35,4 @@ public class Hijab extends ModestWear
 
     }
 }
+
